@@ -17,7 +17,7 @@
 
 ### USE CASES
 
-#### 1. COPY DATA FROM CSV to DATABASE (via Pandas Dataframe)
+#### [1. COPY DATA FROM CSV to DATABASE (via Pandas Dataframe)]
 
 `https://github.com/me-rsharma/py-csv-db/blob/main/notebooks/001-ImportCSVtoDfToDatabase.ipynb`
 
@@ -28,7 +28,7 @@
   - Naming table columns from dataframe columns  
   - Finally. moving data from dataframe to database  
 
-#### 2. COPY DATA FROM CSV to DATABASE
+#### [2. COPY DATA FROM CSV to DATABASE]
 
 `https://github.com/me-rsharma/py-csv-db/blob/main/notebooks/002-ImportCSVToDatabaseAutomate.ipynb`
 
@@ -41,7 +41,7 @@
   - Finally. copying data from csv to database  
 
 
-#### 3. COPY DATA FROM MULTIPLE CSV to DATABASE TABLES (AUTOMATE)
+#### [3. COPY DATA FROM MULTIPLE CSV to DATABASE TABLES (AUTOMATE)]
 
 `https://github.com/me-rsharma/py-csv-db/blob/main/notebooks/003-CopyCSVDataToDatabaseAutomate.ipynb`
 
