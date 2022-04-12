@@ -1,4 +1,10 @@
-# py-csv-db
+# Copy data from csv file to database
+
+
+### PREREQUISITES:
+
+1. Download & install postgres database from https://www.postgresql.org/download/
+2. Download pgadmin4 from https://www.pgadmin.org/download/ or any other postgres client
 
 ### USE CASES
 
