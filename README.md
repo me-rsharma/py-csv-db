@@ -8,7 +8,7 @@
 
 ### USE CASES
 
-1. COPY DATA FROM DATAFRAME to DATABASE
+1. COPY DATA FROM CSV to DATABASE (via Pandas Dataframe)
 
 https://github.com/me-rsharma/py-csv-db/blob/main/notebooks/001-ImportCSVtoDfToDatabase.ipynb
 
