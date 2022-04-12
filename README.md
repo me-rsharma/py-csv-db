@@ -27,8 +27,9 @@ _https://github.com/me-rsharma/py-csv-db/blob/main/notebooks/002-ImportCSVToData
   - Firstly, we are converting data from csv to pandas dataframe  
   - Then we are cleaning the columns name and generate table name and table columns  
   - Creating table using file name  
-  - Naming table columns from dataframe columns  
-  - Finally. moving data from dataframe to database  
+  - Naming table columns from dataframe columns
+  - After cleaning data usning pandas df, we need to export df data to csv file  
+  - Finally. copying data from csv to database  
 
 
 #### 3. COPY DATA FROM MULTIPLE CSV to DATABASE TABLES (AUTOMATE)
@@ -41,6 +42,7 @@ _https://github.com/me-rsharma/py-csv-db/blob/main/notebooks/003-CopyCSVDataToDa
   - Then we are cleaning the columns name and generate table name and table columns  
   - Creating table using file name  
   - Naming table columns from dataframe columns  
-  - Finally. moving data from dataframe to database  
+  - After cleaning data usning pandas df, we need to export df data to csv file  
+  - Finally. copying data from csv to database
 
 
