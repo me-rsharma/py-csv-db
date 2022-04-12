@@ -12,8 +12,8 @@
 > NOTE: Here we are using postgres database. But most of the code gonna be same in case we haev to use any other database.
 > But we have to make sure, we need replace SQL related scripts and database connection string based on database we have to use
 
-1. Download & install postgres database from https://www.postgresql.org/download/
-2. Download pgadmin4 from https://www.pgadmin.org/download/ or any other postgres client
+1. Download & install postgres database from `https://www.postgresql.org/download/`
+2. Download pgadmin4 from `https://www.pgadmin.org/download/` or any other postgres client
 
 ### USE CASES
 
