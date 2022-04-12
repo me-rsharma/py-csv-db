@@ -19,7 +19,7 @@
 
 #### 1. COPY DATA FROM CSV to DATABASE (via Pandas Dataframe)
 
-_https://github.com/me-rsharma/py-csv-db/blob/main/notebooks/001-ImportCSVtoDfToDatabase.ipynb_
+`https://github.com/me-rsharma/py-csv-db/blob/main/notebooks/001-ImportCSVtoDfToDatabase.ipynb`
 
   - Here, we have to copy data from CSV file to postgres database.  
   - Firstly, we are converting data from csv to pandas dataframe  
@@ -30,7 +30,7 @@ _https://github.com/me-rsharma/py-csv-db/blob/main/notebooks/001-ImportCSVtoDfTo
 
 #### 2. COPY DATA FROM CSV to DATABASE
 
-_https://github.com/me-rsharma/py-csv-db/blob/main/notebooks/002-ImportCSVToDatabaseAutomate.ipynb_
+`https://github.com/me-rsharma/py-csv-db/blob/main/notebooks/002-ImportCSVToDatabaseAutomate.ipynb`
 
   - Here, we have to copy data from CSV file to postgres database.  
   - Firstly, we are converting data from csv to pandas dataframe  
@@ -43,7 +43,7 @@ _https://github.com/me-rsharma/py-csv-db/blob/main/notebooks/002-ImportCSVToData
 
 #### 3. COPY DATA FROM MULTIPLE CSV to DATABASE TABLES (AUTOMATE)
 
-_https://github.com/me-rsharma/py-csv-db/blob/main/notebooks/003-CopyCSVDataToDatabaseAutomate.ipynb_
+`https://github.com/me-rsharma/py-csv-db/blob/main/notebooks/003-CopyCSVDataToDatabaseAutomate.ipynb`
 
   - Here, we have to copy data from multiple CSV file to postgres database.  
   - Also, we have modified our code in such a way that n no. of files can be uploaded to n number of database w/o - making any change to code  
